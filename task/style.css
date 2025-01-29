@@ -1,0 +1,10 @@
+h1{
+    color: black;
+    font-weight: bold;
+    background-color: bisque;
+}
+p{
+    color: bisque;
+    background-color: black;
+    font-weight: 500;
+}
